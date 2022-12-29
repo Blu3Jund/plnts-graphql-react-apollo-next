@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "concurrently \"next dev\" \"node index.js\"",
-    "build": "next build",
+    "build": "concurrently \"next build\" \"ncc build index.js -o dist\"",
     "start": "concurrently \"next start\" \"node index.js\"",
     "lint": "next lint"
   },
@@ -28,7 +28,9 @@
     "sequelize-cli": "^6.5.2"
   },
   "devDependencies": {
+    "@vercel/ncc": "^0.36.0",
     "autoprefixer": "^10.4.13",
+    "eslint": "^8.30.0",
     "postcss": "^8.4.20",
     "postcss-cli": "^10.1.0",
     "tailwindcss": "^3.2.4"
