@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "MONEY TREE PLANT",
+    "description": "Money Tree Plant features a uniquely braided trunk with clusters of green leaves at top\nArrives potted in your choice of planter:\nExclusive Domain™ planter, an earthy design that includes a collapsible wooden stand providing a modern lift to display your plant flawlessly; available in Snowcap, Granite, Midnight and Rust; break-resistant and watertight; Stand can be displayed with two height options\nExclusive Artisan™ basket in hand woven banana leaf highlighting the coloration of the natural fibers; durable woven handles make it an easy tote for moving plants from place to place\nExclusive Sandstone™ planter: a versatile, neutral container with ribbed border detail at rim and contoured base; break-resistant and watertight\nLarge plant measures overall approximately 39-40\"H x 9.5\"D potted at the time of purchase\nMedium plant measures overall approximately 16-20\"H x 6\"D potted at the time of purchase",
+    "image": "https://www.plants.com/images/157651MDN_20220221-1645469296261.webp",
+    "stock": 50,
+    "price": 82.99
+  },
+  {
+    "id": 2,
+    "name": "Deliciosa",
+    "description": "Deze Monstera Deliciosa is een populaire, weelderige plant die ook wel gatenplant wordt genoemd. Het is makkelijk te raden waarom: haar prachtige grote bladeren hebben een bijzondere vorm en zitten vol met inkepingen. Het is een sterke dame die makkelijk groeit. In de Zuid-Amerikaanse jungle groeit ze meters hoog. Groeien er lange slierten uit je Monstera Deliciosa? Schrik niet, dit zijn luchtwortels. In de jungle gebruiken ze die om zich vast te grijpen aan bomen en takken. Bij jou thuis heeft ze die niet nodig, daarom kun je ze eraf knippen of ze naar de potgrond terugleiden.",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl_m_017-thumbnail_5.jpg&w=640&q=100",
+    "stock": 4,
+    "price": 10.95
+  }
+]
