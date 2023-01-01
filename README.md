@@ -1,3 +1,3 @@
 client -> `npm run dev`
 
-server -> `node index.js`
+server -> `node index.js_old`
