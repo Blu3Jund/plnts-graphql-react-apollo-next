@@ -1,3 +1,3 @@
 client -> `npm run dev`
 
-server -> `node index.js_old`
+Ignore server for now, merged client and server in 1 just run `npm install` and `npm run dev` in client
